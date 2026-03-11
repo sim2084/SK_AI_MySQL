@@ -1,3 +1,4 @@
-/*
-!/02_mysql/
-!.gitignore
+.vscode/
+00_git/
+01_python/
+data/
